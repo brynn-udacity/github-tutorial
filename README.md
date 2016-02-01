@@ -1,9 +1,13 @@
+# This Repo
+
+This README contains the Github workshop from Udacity's Intersect 2016. The repo contains a PDF of slides, as well as an HTML version that's viewable on Safari. The master has all of the slides and such, but there is also a "slides" branch that you can pull from if you're having trouble pulling the updated master branch.
+
 # Your Challenge
 
 1. Get in a group with 4-5 people.
 
 2. Show off your knowledge of Gitflow with a README. 
-3. 
+
   - One team member must fork this repo.
   - That person must give everyone in the group access to edit the repo.
   - A "develop" branch must be created from the master.
