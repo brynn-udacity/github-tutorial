@@ -32,18 +32,19 @@ This README contains the Github workshop from Udacity's Intersect 2016. The repo
 4. Check out github.com/explore. Find one open source project that's interesting to you and star it (maybe a tool that you've worked with).
 
 
-# All About You
+# Josmary Carrero
 
 1. Which Nanodegree have you taken?
 
-  Android
+  Android Nanodegree
 
 2. Which Octocat is your favorite?
 
-  Baracktocat
+  The Grinchtocat
 
 3. What text editor do you use?
 
-  Android Studio and Sublime. Back in the day, Vim and Eclipse.
+  Android Studio, Sublime and Visual Studio
 
 4. What questions do you want to ask?
+  I don't have questions :P
